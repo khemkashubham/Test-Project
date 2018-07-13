@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="demo_image">demo_image</string>
+    <string name="code">code</string>
+    <string name="bug">bug</string>
+    <string name="users">users</string>
+</resources>
